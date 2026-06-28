@@ -1,0 +1,8 @@
+pandas
+datasets
+langchain
+langchain-community
+langchain-openai
+duckduckgo-search
+ddgs
+sqlalchemy
